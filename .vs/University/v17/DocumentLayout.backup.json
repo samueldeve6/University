@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|c:\\users\\user\\documents\\proyecto.netcorewebapi\\university\\universityapibakend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|solutionrelative:universityapibakend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|c:\\users\\user\\documents\\proyecto.netcorewebapi\\university\\universityapibakend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|solutionrelative:universityapibakend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|c:\\users\\user\\documents\\proyecto.netcorewebapi\\university\\universityapibakend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|solutionrelative:universityapibakend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|c:\\users\\user\\documents\\proyecto.netcorewebapi\\university\\universityapibakend\\addjwttokenservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|solutionrelative:universityapibakend\\addjwttokenservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|c:\\users\\user\\documents\\proyecto.netcorewebapi\\university\\universityapibakend\\models\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|solutionrelative:universityapibakend\\models\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|c:\\users\\user\\documents\\proyecto.netcorewebapi\\university\\universityapibakend\\models\\datamodels\\userlogins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|solutionrelative:universityapibakend\\models\\datamodels\\userlogins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|c:\\users\\user\\documents\\proyecto.netcorewebapi\\university\\universityapibakend\\models\\datamodels\\usertokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FB9B15-B472-4665-857A-61E138DCEA80}|UniversityApiBakend\\UniversityApiBakend.csproj|solutionrelative:universityapibakend\\models\\datamodels\\usertokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "UniversityApiBakend\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "UniversityApiBakend\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T00:14:12.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\appsettings.json",
+              "RelativeDocumentMoniker": "UniversityApiBakend\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\appsettings.json",
+              "RelativeToolTip": "UniversityApiBakend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T00:13:02.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddJwtTokenServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\AddJwtTokenServicesExtensions.cs",
+              "RelativeDocumentMoniker": "UniversityApiBakend\\AddJwtTokenServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\AddJwtTokenServicesExtensions.cs",
+              "RelativeToolTip": "UniversityApiBakend\\AddJwtTokenServicesExtensions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T00:10:50.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityApiBakend\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\Program.cs",
+              "RelativeToolTip": "UniversityApiBakend\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:12:04.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserTokens.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\Models\\DataModels\\UserTokens.cs",
+              "RelativeDocumentMoniker": "UniversityApiBakend\\Models\\DataModels\\UserTokens.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\Models\\DataModels\\UserTokens.cs",
+              "RelativeToolTip": "UniversityApiBakend\\Models\\DataModels\\UserTokens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T00:13:09.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\Models\\DataModels\\User.cs",
+              "RelativeDocumentMoniker": "UniversityApiBakend\\Models\\DataModels\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\Models\\DataModels\\User.cs",
+              "RelativeToolTip": "UniversityApiBakend\\Models\\DataModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:54:44.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLogins.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\Models\\DataModels\\UserLogins.cs",
+              "RelativeDocumentMoniker": "UniversityApiBakend\\Models\\DataModels\\UserLogins.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Proyecto.NetCoreWebAPI\\University\\UniversityApiBakend\\Models\\DataModels\\UserLogins.cs",
+              "RelativeToolTip": "UniversityApiBakend\\Models\\DataModels\\UserLogins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:54:43.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
